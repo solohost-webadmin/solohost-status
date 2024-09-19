@@ -21,13 +21,11 @@ status-website:
   favicon: https://www.solohost.dev/images/unk-net-new_ico3_var1_2.png
   # baseUrl: /your-repo-name
   logoUrl: https://www.solohost.dev/images/unk-net-new_ico3_var1_2.png
-  name: Solohost Status
+  name: Solohost Alt. Status
   introTitle: "**Welcome!**"
   introMessage: This is the alternative status page for solohost.dev! For more information. contact the webmaster.
   theme: night
   navbar:
-    - title: Solohost Status
-      href: /
     - title: Site Landing
       href: https://www.solohost.dev/
     - title: Main Status Page
@@ -35,7 +33,7 @@ status-website:
     - title: Contact Webmaster
       href: mailto:webadmin@solohost.dev
   i18n:
-    footer: solohost.dev | 2024 | [Page Source]($REPO), Powered by [Upptime](https://upptime.js.org/) | [Contact Webmaster](mailto:webadmin@solohost.dev)
+    footer: "solohost.dev | 2024 | [Page Source]($REPO), Powered by [Upptime](https://upptime.js.org/) | [Contact Webmaster](mailto:webadmin@solohost.dev)"
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
