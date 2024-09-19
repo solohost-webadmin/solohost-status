@@ -31,9 +31,9 @@ status-website:
     - title: Main Status Page
       href: https://status.solohost.dev/
     - title: Contact Webmaster
-      href: mailto:webadmin@solohost.dev
+      href: https://contact.solohost.dev/
 i18n:
-  footer: "solohost.dev | 2024 | [Page Source]($REPO), Powered by [Upptime](https://upptime.js.org/) | [Contact Webmaster](mailto:webadmin@solohost.dev)"
+  footer: "solohost.dev | 2024 | [Page Source]($REPO), Powered by [Upptime](https://upptime.js.org/) | [Contact Webmaster](https://contact.solohost.dev/)"
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
